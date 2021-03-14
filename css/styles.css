@@ -10,7 +10,6 @@ body {
     font-smoothing: antialiased;
 	color: #777;
 	background: #000;
-	height: 100vh;
 	overflow: hidden;
 }
 h1, h2, h3, h4, h5, h6{
@@ -63,7 +62,7 @@ P{
 #logo {
 	font-family: 'Coustard', serif;
 	font-size: 49px;
-	bottom:40px;
+	bottom:2.5px;
 	height:auto;
 	left:40px;
 	position:absolute;
